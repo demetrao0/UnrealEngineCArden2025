@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-EUCArden.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Documentos\RepositorioEspecializacionC++\UnrealEngineCArden2025\EUCArden\Intermediate\Build\Win64\x64\EUCArdenEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"D:\Documentos\RepositorioEspecializacionC++\UnrealEngineCArden2025\EUCArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\EUCArden\EUCArden.init.gen.cpp.obj"
+"D:\Documentos\RepositorioEspecializacionC++\UnrealEngineCArden2025\EUCArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\EUCArden\MyActorTest.gen.cpp.obj"
+"D:\Documentos\RepositorioEspecializacionC++\UnrealEngineCArden2025\EUCArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\EUCArden\EUCArden.cpp.obj"
+"D:\Documentos\RepositorioEspecializacionC++\UnrealEngineCArden2025\EUCArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\EUCArden\MyActorTest.cpp.obj"
+"D:\Documentos\RepositorioEspecializacionC++\UnrealEngineCArden2025\EUCArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\EUCArden\PerModuleInline.gen.cpp.obj"
+"D:\Documentos\RepositorioEspecializacionC++\UnrealEngineCArden2025\EUCArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\EUCArden\Default.rc2.res"
+/OUT:"D:\Documentos\RepositorioEspecializacionC++\UnrealEngineCArden2025\EUCArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\EUCArden\UnrealEditor-EUCArden.lib"
