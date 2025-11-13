@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UECArden.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Josep\Documents\Unreal Projects\UnrealEngineCArden2025\UECArden\Intermediate\Build\Win64\x64\UECArdenEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:\Users\Josep\Documents\Unreal Projects\UnrealEngineCArden2025\UECArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\UECArden\UECArden.init.gen.cpp.obj"
+"C:\Users\Josep\Documents\Unreal Projects\UnrealEngineCArden2025\UECArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\UECArden\Veicle.gen.cpp.obj"
+"C:\Users\Josep\Documents\Unreal Projects\UnrealEngineCArden2025\UECArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\UECArden\UECArden.cpp.obj"
+"C:\Users\Josep\Documents\Unreal Projects\UnrealEngineCArden2025\UECArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\UECArden\Veicle.cpp.obj"
+"C:\Users\Josep\Documents\Unreal Projects\UnrealEngineCArden2025\UECArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\UECArden\PerModuleInline.gen.cpp.obj"
+"C:\Users\Josep\Documents\Unreal Projects\UnrealEngineCArden2025\UECArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\UECArden\Default.rc2.res"
+/OUT:"C:\Users\Josep\Documents\Unreal Projects\UnrealEngineCArden2025\UECArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\UECArden\UnrealEditor-UECArden.lib"
