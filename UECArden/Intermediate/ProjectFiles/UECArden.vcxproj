@@ -252,6 +252,7 @@
     <None Include="..\..\UECArden.uproject"/>
     <None Include="..\..\Source\UECArden.Target.cs"/>
     <None Include="..\..\Source\UECArdenEditor.Target.cs"/>
+    <None Include="..\..\.vsconfig"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>

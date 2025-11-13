@@ -15,6 +15,7 @@ public:
 	// Sets default values for this actor's properties
 	AMyActorTest();
 
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
@@ -22,5 +23,19 @@ protected:
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
+
+	//Ejemplo de variable publica
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "MyActorTest")
+	float MyFloatVariable;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "MyActorTest")
+	int edad;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "MyActorTest")
+	bool esInstructor;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "MyActorTest")
+	FString nombre;
+
+	//Funcion de ejemplo
+	UFUNCTION(BlueprintCallable, Category = "MyActorTest")
+	void DemostrateFundamentals();
 
 };
