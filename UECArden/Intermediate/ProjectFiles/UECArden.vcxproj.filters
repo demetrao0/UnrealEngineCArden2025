@@ -11,6 +11,7 @@
     <None Include="..\..\Source\UECArdenEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -32,6 +33,18 @@
     <Filter Include="Source\UECArden">
       <UniqueIdentifier>{15F95A8C-919E-34F1-972D-28DFF4843FF6}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\UECArden\Car.cpp">
+      <Filter>Source\UECArden</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UECArden\Car.h">
+      <Filter>Source\UECArden</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UECArden\MyActorTest.cpp">
+      <Filter>Source\UECArden</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UECArden\MyActorTest.h">
+      <Filter>Source\UECArden</Filter>
+    </ClCompile>
     <None Include="..\..\Source\UECArden\UECArden.Build.cs">
       <Filter>Source\UECArden</Filter>
     </None>

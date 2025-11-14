@@ -1,13 +1,13 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\josep\\documents\\unreal projects\\unrealenginecarden2025\\uecarden\\intermediate\\build\\win64\\unrealeditor\\inc\\uecarden\\uht\\veicle.gen.cpp",
+        "Source": "c:\\users\\deme\\documents\\github\\unrealenginecarden2025\\uecarden\\intermediate\\build\\win64\\unrealeditor\\inc\\uecarden\\uht\\veicle.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\josep\\documents\\unreal projects\\unrealenginecarden2025\\uecarden\\intermediate\\build\\win64\\x64\\uecardeneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "PCH": "c:\\users\\deme\\documents\\github\\unrealenginecarden2025\\uecarden\\intermediate\\build\\win64\\x64\\uecardeneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
         "Includes": [
-            "c:\\users\\josep\\documents\\unreal projects\\unrealenginecarden2025\\uecarden\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\uecarden\\definitions.uecarden.h",
-            "c:\\users\\josep\\documents\\unreal projects\\unrealenginecarden2025\\uecarden\\source\\uecarden\\veicle.h",
-            "c:\\users\\josep\\documents\\unreal projects\\unrealenginecarden2025\\uecarden\\intermediate\\build\\win64\\unrealeditor\\inc\\uecarden\\uht\\veicle.generated.h"
+            "c:\\users\\deme\\documents\\github\\unrealenginecarden2025\\uecarden\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\uecarden\\definitions.uecarden.h",
+            "c:\\users\\deme\\documents\\github\\unrealenginecarden2025\\uecarden\\source\\uecarden\\veicle.h",
+            "c:\\users\\deme\\documents\\github\\unrealenginecarden2025\\uecarden\\intermediate\\build\\win64\\unrealeditor\\inc\\uecarden\\uht\\veicle.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

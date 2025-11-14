@@ -6854,68 +6854,68 @@
     },
     "EpicGames.Build/1.0.0": {
       "type": "project",
-      "path": "D:\\Juegos epic\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj",
-      "msbuildProject": "D:\\Juegos epic\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj"
+      "path": "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj",
+      "msbuildProject": "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj"
     },
     "EpicGames.Core/1.0.0": {
       "type": "project",
-      "path": "D:\\Juegos epic\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.Core\\EpicGames.Core.csproj",
-      "msbuildProject": "D:\\Juegos epic\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.Core\\EpicGames.Core.csproj"
+      "path": "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.Core\\EpicGames.Core.csproj",
+      "msbuildProject": "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.Core\\EpicGames.Core.csproj"
     },
     "EpicGames.Horde/1.0.0": {
       "type": "project",
-      "path": "D:\\Juegos epic\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.Horde\\EpicGames.Horde.csproj",
-      "msbuildProject": "D:\\Juegos epic\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.Horde\\EpicGames.Horde.csproj"
+      "path": "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.Horde\\EpicGames.Horde.csproj",
+      "msbuildProject": "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.Horde\\EpicGames.Horde.csproj"
     },
     "EpicGames.IoHash/1.0.0": {
       "type": "project",
-      "path": "D:\\Juegos epic\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.IoHash\\EpicGames.IoHash.csproj",
-      "msbuildProject": "D:\\Juegos epic\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.IoHash\\EpicGames.IoHash.csproj"
+      "path": "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.IoHash\\EpicGames.IoHash.csproj",
+      "msbuildProject": "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.IoHash\\EpicGames.IoHash.csproj"
     },
     "EpicGames.MsBuild/1.0.0": {
       "type": "project",
-      "path": "D:\\Juegos epic\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.MsBuild\\EpicGames.MsBuild.csproj",
-      "msbuildProject": "D:\\Juegos epic\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.MsBuild\\EpicGames.MsBuild.csproj"
+      "path": "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.MsBuild\\EpicGames.MsBuild.csproj",
+      "msbuildProject": "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.MsBuild\\EpicGames.MsBuild.csproj"
     },
     "EpicGames.OIDC/1.0.0": {
       "type": "project",
-      "path": "D:\\Juegos epic\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.OIDC\\EpicGames.OIDC.csproj",
-      "msbuildProject": "D:\\Juegos epic\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.OIDC\\EpicGames.OIDC.csproj"
+      "path": "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.OIDC\\EpicGames.OIDC.csproj",
+      "msbuildProject": "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.OIDC\\EpicGames.OIDC.csproj"
     },
     "EpicGames.Oodle/1.0.0": {
       "type": "project",
-      "path": "D:\\Juegos epic\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.Oodle\\EpicGames.Oodle.csproj",
-      "msbuildProject": "D:\\Juegos epic\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.Oodle\\EpicGames.Oodle.csproj"
+      "path": "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.Oodle\\EpicGames.Oodle.csproj",
+      "msbuildProject": "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.Oodle\\EpicGames.Oodle.csproj"
     },
     "EpicGames.Serialization/1.0.0": {
       "type": "project",
-      "path": "D:\\Juegos epic\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.Serialization\\EpicGames.Serialization.csproj",
-      "msbuildProject": "D:\\Juegos epic\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.Serialization\\EpicGames.Serialization.csproj"
+      "path": "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.Serialization\\EpicGames.Serialization.csproj",
+      "msbuildProject": "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.Serialization\\EpicGames.Serialization.csproj"
     },
     "EpicGames.UBA/1.0.0": {
       "type": "project",
-      "path": "D:\\Juegos epic\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.UBA\\EpicGames.UBA.csproj",
-      "msbuildProject": "D:\\Juegos epic\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.UBA\\EpicGames.UBA.csproj"
+      "path": "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.UBA\\EpicGames.UBA.csproj",
+      "msbuildProject": "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.UBA\\EpicGames.UBA.csproj"
     },
     "EpicGames.UHT/1.0.0": {
       "type": "project",
-      "path": "D:\\Juegos epic\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.UHT\\EpicGames.UHT.csproj",
-      "msbuildProject": "D:\\Juegos epic\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.UHT\\EpicGames.UHT.csproj"
+      "path": "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.UHT\\EpicGames.UHT.csproj",
+      "msbuildProject": "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.UHT\\EpicGames.UHT.csproj"
     },
     "UE5ProgramRules/1.0.0": {
       "type": "project",
-      "path": "D:\\Juegos epic\\UE_5.5\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj",
-      "msbuildProject": "D:\\Juegos epic\\UE_5.5\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj"
+      "path": "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj",
+      "msbuildProject": "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj"
     },
     "UE5Rules/1.0.0": {
       "type": "project",
-      "path": "D:\\Juegos epic\\UE_5.5\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj",
-      "msbuildProject": "D:\\Juegos epic\\UE_5.5\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj"
+      "path": "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj",
+      "msbuildProject": "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj"
     },
     "UnrealBuildTool/1.0.0": {
       "type": "project",
-      "path": "D:\\Juegos epic\\UE_5.5\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj",
-      "msbuildProject": "D:\\Juegos epic\\UE_5.5\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj"
+      "path": "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj",
+      "msbuildProject": "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6927,19 +6927,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Josep\\.nuget\\packages\\": {}
+    "C:\\Users\\Deme\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Josep\\Documents\\Unreal Projects\\UnrealEngineCArden2025\\UECArden\\Intermediate\\Build\\BuildRulesProjects\\UECArdenModuleRules\\UECArdenModuleRules.csproj",
+      "projectUniqueName": "C:\\Users\\Deme\\Documents\\GitHub\\UnrealEngineCArden2025\\UECArden\\Intermediate\\Build\\BuildRulesProjects\\UECArdenModuleRules\\UECArdenModuleRules.csproj",
       "projectName": "UECArdenModuleRules",
-      "projectPath": "C:\\Users\\Josep\\Documents\\Unreal Projects\\UnrealEngineCArden2025\\UECArden\\Intermediate\\Build\\BuildRulesProjects\\UECArdenModuleRules\\UECArdenModuleRules.csproj",
-      "packagesPath": "C:\\Users\\Josep\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Josep\\Documents\\Unreal Projects\\UnrealEngineCArden2025\\UECArden\\Intermediate\\Build\\BuildRulesProjects\\UECArdenModuleRules\\obj\\",
+      "projectPath": "C:\\Users\\Deme\\Documents\\GitHub\\UnrealEngineCArden2025\\UECArden\\Intermediate\\Build\\BuildRulesProjects\\UECArdenModuleRules\\UECArdenModuleRules.csproj",
+      "packagesPath": "C:\\Users\\Deme\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Deme\\Documents\\GitHub\\UnrealEngineCArden2025\\UECArden\\Intermediate\\Build\\BuildRulesProjects\\UECArdenModuleRules\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Josep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Deme\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6953,17 +6953,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Juegos epic\\UE_5.5\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj": {
-              "projectPath": "D:\\Juegos epic\\UE_5.5\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj"
+            "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj": {
+              "projectPath": "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj"
             },
-            "D:\\Juegos epic\\UE_5.5\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj": {
-              "projectPath": "D:\\Juegos epic\\UE_5.5\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj"
+            "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj": {
+              "projectPath": "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj"
             },
-            "D:\\Juegos epic\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj": {
-              "projectPath": "D:\\Juegos epic\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj"
+            "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj": {
+              "projectPath": "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj"
             },
-            "D:\\Juegos epic\\UE_5.5\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj": {
-              "projectPath": "D:\\Juegos epic\\UE_5.5\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj"
+            "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj": {
+              "projectPath": "D:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj"
             }
           }
         }
