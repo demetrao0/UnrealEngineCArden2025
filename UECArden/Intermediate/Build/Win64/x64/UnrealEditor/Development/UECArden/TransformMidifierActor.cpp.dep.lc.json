@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\deme\\documents\\github\\unrealenginecarden2025\\uecarden\\source\\uecarden\\transformmidifieractor.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\deme\\documents\\github\\unrealenginecarden2025\\uecarden\\intermediate\\build\\win64\\x64\\uecardeneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\deme\\documents\\github\\unrealenginecarden2025\\uecarden\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\uecarden\\definitions.uecarden.h",
+            "c:\\users\\deme\\documents\\github\\unrealenginecarden2025\\uecarden\\source\\uecarden\\transformmidifieractor.h",
+            "c:\\users\\deme\\documents\\github\\unrealenginecarden2025\\uecarden\\intermediate\\build\\win64\\unrealeditor\\inc\\uecarden\\uht\\transformmidifieractor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
