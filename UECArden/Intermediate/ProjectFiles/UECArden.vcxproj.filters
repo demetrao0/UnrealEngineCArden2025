@@ -45,10 +45,22 @@
     <ClCompile Include="..\..\Source\UECArden\MyActorTest.h">
       <Filter>Source\UECArden</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\UECArden\MyCharacterInput.cpp">
+      <Filter>Source\UECArden</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UECArden\MyCharacterInput.h">
+      <Filter>Source\UECArden</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\UECArden\PlatformActor.cpp">
       <Filter>Source\UECArden</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\UECArden\PlatformActor.h">
+      <Filter>Source\UECArden</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UECArden\Temperatura.cpp">
+      <Filter>Source\UECArden</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UECArden\Temperatura.h">
       <Filter>Source\UECArden</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\UECArden\TransformMidifierActor.cpp">

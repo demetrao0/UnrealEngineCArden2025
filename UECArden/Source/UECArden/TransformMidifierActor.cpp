@@ -48,7 +48,7 @@ void ATransformMidifierActor::Tick(float DeltaTime)
 	
 	if(Positions.Num() == 0 || !TargetActor)
 	{
-		return;
+		return;	
 	}
 
 	FVector CurrentPosition = TargetActor->GetActorLocation();
@@ -61,10 +61,10 @@ void ATransformMidifierActor::Tick(float DeltaTime)
 	TargetActor->SetActorLocation(NewPosition);
 
 	//Check if reached Target Position
-	if (FVector::Dist(NewPosition, TargetPosition) <= 10.0f)
+	if (FVector::Dist(NewPosition, TargetPosition) <= 100.0f)
 	{
-		CurrentPositionIndex++;
 		ChangeMaterial();
+		CurrentPositionIndex++;
 		if (CurrentPositionIndex >= Positions.Num()) {
 			CurrentPositionIndex = 0;
 		}
@@ -116,6 +116,15 @@ void ATransformMidifierActor::MoveToNextPosition()
 
 void ATransformMidifierActor::ChangeMaterial()
 {
+
+	if (TargetActor && Materials.IsValidIndex(CurrentPositionIndex)) {
+		UStaticMeshComponent* MeshComponent = Cast<UStaticMeshComponent>(
+			TargetActor->GetComponentByClass(UStaticMeshComponent::StaticClass()));
+		if (MeshComponent) {
+			MeshComponent->SetMaterial(0, Materials[CurrentPositionIndex]);
+		}
+	}
+	
 }
 
 void ATransformMidifierActor::DrawDSphere() const
