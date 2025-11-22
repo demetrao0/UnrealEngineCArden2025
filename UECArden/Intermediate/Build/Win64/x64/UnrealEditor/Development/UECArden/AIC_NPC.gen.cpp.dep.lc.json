@@ -1,0 +1,28 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\deme\\documents\\github\\unrealenginecarden2025\\uecarden\\intermediate\\build\\win64\\unrealeditor\\inc\\uecarden\\uht\\aic_npc.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\deme\\documents\\github\\unrealenginecarden2025\\uecarden\\intermediate\\build\\win64\\x64\\uecardeneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\deme\\documents\\github\\unrealenginecarden2025\\uecarden\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\uecarden\\definitions.uecarden.h",
+            "c:\\users\\deme\\documents\\github\\unrealenginecarden2025\\uecarden\\source\\uecarden\\aic_npc.h",
+            "d:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\aimodule\\classes\\aicontroller.h",
+            "d:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\aimodule\\classes\\aitypes.h",
+            "d:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\navigationsystem\\public\\navigationsystemtypes.h",
+            "d:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\ai\\navigationsystemconfig.h",
+            "d:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\navigationsystemconfig.generated.h",
+            "d:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\aitypes.generated.h",
+            "d:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\aimodule\\classes\\perception\\aiperceptionlistenerinterface.h",
+            "d:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\aiperceptionlistenerinterface.generated.h",
+            "d:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\aimodule\\classes\\genericteamagentinterface.h",
+            "d:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\genericteamagentinterface.generated.h",
+            "d:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\public\\visuallogger\\visualloggerdebugsnapshotinterface.h",
+            "d:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\visualloggerdebugsnapshotinterface.generated.h",
+            "d:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\aicontroller.generated.h",
+            "c:\\users\\deme\\documents\\github\\unrealenginecarden2025\\uecarden\\intermediate\\build\\win64\\unrealeditor\\inc\\uecarden\\uht\\aic_npc.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

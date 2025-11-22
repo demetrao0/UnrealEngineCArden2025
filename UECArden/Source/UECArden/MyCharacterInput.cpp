@@ -55,6 +55,8 @@ void AMyCharacterInput::Tick(float DeltaTime)
 // Called to bind functionality to input
 void AMyCharacterInput::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 {
+	Super::SetupPlayerInputComponent(PlayerInputComponent);
+
 	if (UEnhancedInputComponent* EIC = Cast<UEnhancedInputComponent>(PlayerInputComponent))
 	{
 		
